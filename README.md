@@ -1,7 +1,7 @@
 ### 👋 Hi! I'm a Full Stack Developer (React / Node / Typescript), working as a remote freelancer. You can book me [here](https://www.malt.fr/profile/arnotrigallez)
 
 
-#### ✍️ My lastest posts:
+#### ✍️ My latest blog posts:
 - [Discovering Ceramic Network: a new framework for Web3 developers](https://lsmod.medium.com/discovering-ceramic-network-a-new-framework-for-web3-developers-17a9da78184f)
 - [How does Solana blockchain achieve scalability with 50K TPS ?](https://lsmod.medium.com/what-makes-solana-the-fastest-public-blockchain-cb8ffde1a7f4)
 - [End-to-End testing with codecept (mobile & web)](https://lsmod.medium.com/end-to-end-testing-with-codecept-mobile-web-b839a76a48aa)
