@@ -1,4 +1,4 @@
-### 👋 Hi! I'm a Full Stack Developer (React / Node / Typescript), working as a remote freelancer. You can book me [here](https://www.malt.fr/profile/arnotrigallez)
+### 👋 Hi! I'm a Full Stack Developer (React / Node / Typescript), working as a remote freelancer. You can book me [here 📅](https://www.malt.fr/profile/arnotrigallez)
 
 
 #### ✍️ My latest blog posts:
