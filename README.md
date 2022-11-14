@@ -9,7 +9,7 @@
 - [Ionic form’s validation | Get started with Reactive Form](https://lsmod.medium.com/ionic-forms-validation-get-started-with-reactive-form-b15cf814d506)
 - [Cleaner routes with NestJs](https://lsmod.medium.com/cleaner-routes-with-nestjs-738bf712d93)
 
-### 📫 How to reach me:
+#### 📫 How to reach me:
 - [Malt](https://www.malt.fr/profile/arnotrigallez)
 - [LinkedIn](https://www.linkedin.com/in/arno-trigallez-889119244/)
 
