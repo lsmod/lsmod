@@ -2,6 +2,7 @@
 
 
 #### ✍️ My latest blog posts:
+- [What separates a junior from a senior developer?](https://lsmod.medium.com/what-separates-a-junior-from-a-senior-developer-4898cfa35806)
 - [Discovering Ceramic Network: a new framework for Web3 developers](https://lsmod.medium.com/discovering-ceramic-network-a-new-framework-for-web3-developers-17a9da78184f)
 - [How does Solana blockchain achieve scalability with 50K TPS ?](https://lsmod.medium.com/what-makes-solana-the-fastest-public-blockchain-cb8ffde1a7f4)
 - [End-to-End testing with codecept (mobile & web)](https://lsmod.medium.com/end-to-end-testing-with-codecept-mobile-web-b839a76a48aa)
