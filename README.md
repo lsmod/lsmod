@@ -2,6 +2,7 @@
 
 
 #### ✍️ My latest blog posts:
+- [Typescript “never” type example usage with React | Mutually exclusive props](https://lsmod.medium.com/typescript-never-type-example-usage-with-react-mutually-exclusive-props-4683445d42c7)
 - [Which one is better: “React or Angular?” | React VS Angular](https://lsmod.medium.com/which-is-better-react-or-angular-react-vs-angular-15625352769a)
 - [What separates a junior from a senior developer?](https://lsmod.medium.com/what-separates-a-junior-from-a-senior-developer-4898cfa35806)
 - [Discovering Ceramic Network: a new framework for Web3 developers](https://lsmod.medium.com/discovering-ceramic-network-a-new-framework-for-web3-developers-17a9da78184f)
