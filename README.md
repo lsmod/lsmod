@@ -2,6 +2,7 @@
 
 
 #### ✍️ My latest blog posts:
+- [Why a developer should not be considered as a simple coder?](https://lsmod.medium.com/why-a-developer-should-not-be-considered-as-a-simple-coder-97f13c4db1e7)
 - [Typescript “never” type example usage with React | Mutually exclusive props](https://lsmod.medium.com/typescript-never-type-example-usage-with-react-mutually-exclusive-props-4683445d42c7)
 - [Which one is better: “React or Angular?” | React VS Angular](https://lsmod.medium.com/which-is-better-react-or-angular-react-vs-angular-15625352769a)
 - [What separates a junior from a senior developer?](https://lsmod.medium.com/what-separates-a-junior-from-a-senior-developer-4898cfa35806)
