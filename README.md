@@ -2,6 +2,7 @@
 
 
 #### ✍️ My latest blog posts:
+- [Making Nest.js and TypeORM work with multiple databases](https://lsmod.medium.com/making-nest-js-and-typeorm-work-with-multiple-databases-3ce54b438e5e)
 - [Typewriting an unloved ability](https://lsmod.medium.com/typewriting-an-unloved-ability-a149ccb4b8de)
 - [Why a developer should not be considered as a simple coder?](https://lsmod.medium.com/why-a-developer-should-not-be-considered-as-a-simple-coder-97f13c4db1e7)
 - [Typescript “never” type example usage with React | Mutually exclusive props](https://lsmod.medium.com/typescript-never-type-example-usage-with-react-mutually-exclusive-props-4683445d42c7)
