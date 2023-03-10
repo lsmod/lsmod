@@ -2,6 +2,7 @@
 
 
 #### ✍️ My latest blog posts:
+- [NestJS: Setting up file logging daily rotation with winston](https://lsmod.medium.com/nestjs-setting-up-file-logging-daily-rotation-with-winston-28147af56ec4)
 - [Making Nest.js and TypeORM work with multiple databases](https://lsmod.medium.com/making-nest-js-and-typeorm-work-with-multiple-databases-3ce54b438e5e)
 - [Typewriting an unloved ability](https://lsmod.medium.com/typewriting-an-unloved-ability-a149ccb4b8de)
 - [Why a developer should not be considered as a simple coder?](https://lsmod.medium.com/why-a-developer-should-not-be-considered-as-a-simple-coder-97f13c4db1e7)
