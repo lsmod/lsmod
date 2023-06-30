@@ -2,6 +2,7 @@
 
 
 #### ✍️ My latest blog posts:
+- [Practice, then study: another way of learning programming and the developer’s job](https://lsmod.medium.com/practice-then-study-another-way-of-learning-programming-and-the-developers-job-72a6530e555a)
 - [NestJS: Setting up file logging daily rotation with winston](https://lsmod.medium.com/nestjs-setting-up-file-logging-daily-rotation-with-winston-28147af56ec4)
 - [Making Nest.js and TypeORM work with multiple databases](https://lsmod.medium.com/making-nest-js-and-typeorm-work-with-multiple-databases-3ce54b438e5e)
 - [Typewriting an unloved ability](https://lsmod.medium.com/typewriting-an-unloved-ability-a149ccb4b8de)
