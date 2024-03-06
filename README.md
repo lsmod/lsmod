@@ -19,7 +19,7 @@
 
 #### 📫 How to reach me:
 - [Malt](https://www.malt.fr/profile/arnotrigallez)
-- [LinkedIn](https://www.linkedin.com/in/arno-trigallez-889119244/)
+- [LinkedIn](https://www.linkedin.com/in/arno-trigallez/)
 
 <!--
 **lsmod/lsmod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
