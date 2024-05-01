@@ -1,4 +1,4 @@
-### 👋 Hi, I'm a Full Stack Developer (React / Node / Typescript / AWS Serverless), and I help founders build thier MVP!
+### 👋 Hi, I'm a Full Stack Developer, and I help founders build thier MVP!
 
 
 #### ✍️ My latest blog posts:
