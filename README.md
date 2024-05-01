@@ -18,7 +18,6 @@
 - [Cleaner routes with NestJs](https://lsmod.medium.com/cleaner-routes-with-nestjs-738bf712d93)
 
 #### 📫 How to reach me:
-- [Malt](https://www.malt.fr/profile/arnotrigallez)
 - [LinkedIn](https://www.linkedin.com/in/arno-trigallez/)
 
 <!--
